@@ -1,5 +1,5 @@
 def new_hash
-	mer = {}
+	return mer = {}
 end
 
 def actor
